@@ -26,5 +26,5 @@ input.addEventListener("change",(event)=>{
 });
 // #endregion
 // #region unzip file
-
+const zip = new JSZip();
 // #endregion
